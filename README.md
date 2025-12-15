@@ -7,21 +7,13 @@ It simulates a 10‑floor hotel with 97 rooms and lets you quickly test differen
 
 ## Live Demo
 
-> Add your deployed link here:
->
-> `https://your-live-demo-link.com`
+[`https://rainbow-cuchufli-0607cc.netlify.app/`](https://rainbow-cuchufli-0607cc.netlify.app/)
 
----
 
 ## Screenshot
 
-> Replace the placeholder below with a real screenshot of the app.
->
-> Example:
->
-> ```text
-> ./screenshots/hotel-layout.png
-> ```
+<img width="2579" height="1436" alt="image" src="https://github.com/user-attachments/assets/f1d786ed-c8cb-40bd-a502-0b177709ba3e" />
+
 
 ---
 
@@ -126,8 +118,4 @@ The output is a list of rooms to book and a travel time value that is shown in t
 
 ---
 
-## License
-
-Use, modify, or extend this project freely for learning or as a base for your own UI experiments.
-*** End Patch***/
 
